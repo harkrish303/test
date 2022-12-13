@@ -1,0 +1,78 @@
+
+.logo{
+    position: absolute;
+width: 250px;
+height: 200px;
+left: 600px;
+top: 1px;
+
+}
+.first{
+    position: absolute;
+width: 250px;
+height: 250px;
+left: 260px;
+top: 200px;
+}
+.second{
+    position: absolute;
+width: 300px;
+height: 250px;
+left: 880px;
+top: 200px;
+
+}
+.tbox1{
+    position: absolute;
+width: 332px;
+height: 60px;
+left: 266px;
+top: 6px;
+
+background: #FFFFFF;
+border-radius: 15px;
+}
+.text1{
+    position:fixed;
+    width: 298px;
+    height: 25px;
+    left: 265px;
+    top: 405px;
+    
+    font-family: 'Iceland';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 39px;
+    color: #000000;
+}
+.tbox2{
+    position: absolute;
+    width: 284.55px;
+    height: 62.29px;
+    left: 816.18px;
+    top: 689.71px;
+    
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+.text2{
+    position:absolute;
+    width: 257.29px;
+    height: 47.51px;
+    left: 930px;
+    top: 405px;
+    
+    font-family: 'Iceland';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 39px;
+    
+    color: #000000;
+}
+#link
+{
+    text-decoration: none;
+    color: #000000;
+}

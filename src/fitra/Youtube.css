@@ -1,0 +1,78 @@
+.logo{
+    position: absolute;
+width: 250px;
+height: 200px;
+left: 600px;
+top: 1px;
+}
+.video1 {
+    position: absolute;
+    width: 416px;
+    height: 236px;
+    left: 300px;
+    top: 172px;
+    
+  }
+  .video2
+  {
+    position: absolute;
+    width: 413px;
+    height: 236px;
+    left: 900px;
+    top: 172px;
+    
+  }
+  .video3
+  {
+    position: absolute;
+    width: 409px;
+    height: 233px;
+    left: 100px;
+    top: 459px;
+    
+    
+  }
+  .video4
+  {
+  
+    position: absolute;
+width: 416px;
+height: 239px;
+left: 586px;
+top: 459px;
+  }
+  .video5
+{
+    position: absolute;
+    width: 416px;
+    height: 233px;
+    left: 1094px;
+    top: 459px;
+    
+    
+}  
+.video6
+{
+    
+    position: absolute;
+width: 409px;
+height: 218px;
+left: 300px;
+top: 756px;
+
+}
+.video7
+{
+    position: absolute;
+    width: 399px;
+    height: 215px;
+    left: 900px;
+    top: 756px;
+    
+}
+iframe
+{
+  border-radius: 25px;
+  height:200px;
+}
+  
